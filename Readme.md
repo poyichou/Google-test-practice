@@ -14,3 +14,7 @@ make
 # or
 ctest
 ```
+## To clean
+```
+rm -rf build
+```
