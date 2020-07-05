@@ -16,5 +16,5 @@ ctest
 ```
 ## To clean
 ```
-rm -rf build
+rm -rf build googletest
 ```
